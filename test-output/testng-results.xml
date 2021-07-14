@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16934" started-at="2021-07-14T08:01:18Z" finished-at="2021-07-14T08:01:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16934" started-at="2021-07-14T08:01:18Z" finished-at="2021-07-14T08:01:35Z">
+      <class name="log4j.Demolog">
+        <test-method status="PASS" signature="testlog()[pri:0, instance:log4j.Demolog@587d1d39]" name="testlog" duration-ms="16888" started-at="2021-07-14T08:01:18Z" finished-at="2021-07-14T08:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlog -->
+      </class> <!-- log4j.Demolog -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
